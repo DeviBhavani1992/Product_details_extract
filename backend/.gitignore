@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Project generated data
+extracted_text/
+Set 1 - Foods/
+
+# Logs
+*.log
